@@ -1,0 +1,53 @@
+<svg height="798" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="798" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ mem-fs-editor@3.0.2 </tspan>
+<tspan x="10" y="90">  ├── commondir@1.0.1 </tspan>
+<tspan x="10" y="106">  ├── deep-extend@0.4.1 </tspan>
+<tspan x="10" y="122">  ├── ejs@2.5.6 </tspan>
+<tspan x="10" y="138">  ├─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="154">  │ ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="170">  │ ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="186">  │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="202">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="218">  │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="250">  │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="266">  │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="282">  │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="298">  │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="314">  ├─┬ globby@6.1.0 </tspan>
+<tspan x="10" y="330">  │ ├─┬ array-union@1.0.2 </tspan>
+<tspan x="10" y="346">  │ │ └── array-uniq@1.0.3 </tspan>
+<tspan x="10" y="362">  │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="378">  │ ├── pify@2.3.0 </tspan>
+<tspan x="10" y="394">  │ └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="410">  │   └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="426">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="442">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="458">  ├─┬ multimatch@2.1.0 </tspan>
+<tspan x="10" y="474">  │ ├── array-differ@1.0.0 </tspan>
+<tspan x="10" y="490">  │ └── arrify@1.0.1 </tspan>
+<tspan x="10" y="506">  ├── rimraf@2.6.1 </tspan>
+<tspan x="10" y="522">  ├─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="538">  │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="554">  │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="570">  │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="586">  │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="602">  │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="618">  │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="634">  │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="650">  │ └── xtend@4.0.1 </tspan>
+<tspan x="10" y="666">  └─┬ vinyl@2.0.2 </tspan>
+<tspan x="10" y="682">    ├── clone@1.0.2 </tspan>
+<tspan x="10" y="698">    ├── clone-buffer@1.0.0 </tspan>
+<tspan x="10" y="714">    ├── clone-stats@1.0.0 </tspan>
+<tspan x="10" y="730">    ├── cloneable-readable@1.0.0 </tspan>
+<tspan x="10" y="746">    ├── is-stream@1.1.0 </tspan>
+<tspan x="10" y="762">    ├── remove-trailing-separator@1.0.1 </tspan>
+<tspan x="10" y="778">    └── replace-ext@1.0.0</tspan>
+</text>
+</svg>
